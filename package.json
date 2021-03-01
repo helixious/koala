@@ -1,0 +1,32 @@
+{
+  "name": "koala-express-jwt",
+  "version": "1.0.0",
+  "description": "koala-jwt-express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/helixious/koala.git"
+  },
+  "keywords": [
+    "jwt",
+    "express",
+    "middleware"
+  ],
+  "author": "sle",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/helixious/koala/issues"
+  },
+  "homepage": "https://github.com/helixious/koala#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "jsonwebtoken": "^8.5.1"
+  },
+  "devDependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1"
+  }
+}
